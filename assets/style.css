@@ -105,7 +105,9 @@ a:hover {
     text-align: right;
     padding: 45px;
 }
-
+.section-title h2 {
+    font-size: 3rem;
+}
 .about-me {
     display: flex;
     justify-content: space-around;
