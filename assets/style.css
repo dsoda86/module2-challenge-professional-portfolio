@@ -234,3 +234,10 @@ footer {
     text-align: center;
     padding: 10px 5px;
 }
+@media screen and (max-width: 768px) {
+
+}
+
+@media screen and (max-width: 575px) {
+    
+}
