@@ -127,7 +127,25 @@ a:hover {
 }
 
 .flexbox-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
     width: 90%;
-    height
+    height: 100vh
 }
+
+.flexbox-app {
+    display: flex;
+}
+
+.work {
+    display: flex;
+}
+
+.contact-me {
+    display: flex;
+    justify-content: space-around;
+    align-items:center;
+    padding: 25px;
 }
